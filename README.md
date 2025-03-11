@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm **Parsa Kiani**, an enthusiastic and passionate **AI & Android Developer** with a deep love for technology and coding. Born in the summer of 1981 in Tehran, I have always been fascinated by the power of technology and its ability to shape the future. My journey in programming started early, and I am constantly striving to learn, grow, and improve my skills in various fields.
+Hi there! 👋 I'm **Parsa Kiani**, an enthusiastic and passionate **AI & Android Developer** with a deep love for technology and coding. Born in the summer of 2001 in Tehran, I have always been fascinated by the power of technology and its ability to shape the future. My journey in programming started early, and I am constantly striving to learn, grow, and improve my skills in various fields.
 
 ### 🌱 **What I Do:**
 I specialize in a wide range of technologies, focusing on both the frontend and backend of software development:
