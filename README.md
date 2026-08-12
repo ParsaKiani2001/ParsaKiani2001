@@ -25,8 +25,10 @@ I specialize in a wide range of technologies, focusing on both the frontend and 
 #### **Additional Skills:**
 While my primary focus is on the technologies mentioned above, I also have experience working with the following languages:
 - **C#**
-- **C**
-- **Swift**
+- **C++**
+- **Kotlin**
+- **Python**
+- **Dart**
 
 ### 📍 **About My Background:**
 I was born and raised in **Tehran**, and from a young age, I developed a deep curiosity about the world of technology. Over the years, my interests have evolved from basic coding to complex AI models and mobile applications, and I am always excited to explore new challenges and opportunities in the tech world.
