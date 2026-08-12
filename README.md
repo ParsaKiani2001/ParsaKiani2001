@@ -16,7 +16,7 @@ I specialize in a wide range of technologies, focusing on both the frontend and 
 - Building and training various **neural networks** for real-world applications
 
 #### **Hardware Development:**
-- Expertise in **AVR** alse Beginner **ARM** microcontrollers
+- Expertise in **AVR** also Beginner **ARM** microcontrollers
 - Programming in **C++** for embedded systems
 
 #### **Backend Development:**
